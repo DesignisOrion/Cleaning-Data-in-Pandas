@@ -1,0 +1,2 @@
+# Cleaning-Data-in-Pandas
+Most of your time is going to involve processing/cleaning/munging data. How do you know your data is clean? Sometimes you know what you need beforehand, but other times you don't. We'll cover the basics of looking at your data and getting started with the Pandas Python library, and then focus on how to "tidy" and reshape data. We'll finish with applying customized processing functions on our data.
